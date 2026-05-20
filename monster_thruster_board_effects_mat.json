@@ -1,0 +1,60 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 9,
+    "Name": "Custom/Distorted/Additive",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 1,
+          "Name": "effects_tex",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_ColorMultiplier": 1.0
+    },
+    "m_Colors": {
+      "_AnimatedVector": {
+        "r": -0.08,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_Distort": {
+        "r": -0.0005,
+        "g": -0.00029999999,
+        "b": 0.0,
+        "a": 0.0
+      },
+      "_MainColor": {
+        "r": 0.52028394,
+        "g": 0.36764705,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "monster_thruster_board_effects_mat",
+  "Name": "monster_thruster_board_effects_mat"
+}

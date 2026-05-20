@@ -1,0 +1,48 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": 12,
+    "Name": "Custom/Distorted/Additive (fog falloff)",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 2,
+          "m_PathID": 2,
+          "Name": "Default-Particle",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "<noninit>": 0.0
+    },
+    "m_Colors": {
+      "<noninit>": {
+        "r": 0.0,
+        "g": 1.9150428E-34,
+        "b": 0.0,
+        "a": 1.9150355E-34
+      },
+      "_MainColor": {
+        "r": 0.37647057,
+        "g": 0.3113073,
+        "b": 0.14025374,
+        "a": 0.0
+      }
+    }
+  },
+  "m_Name": "0.00_Generic_FX_fire_glow",
+  "Name": "0.00_Generic_FX_fire_glow"
+}
